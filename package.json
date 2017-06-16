@@ -1,0 +1,21 @@
+{
+  "name": "coinpush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://longmaba@bitbucket.org/longmaba/coin-push.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/longmaba/coin-push#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "pushbullet": "^2.0.0",
+    "request-promise": "^4.2.1"
+  }
+}
